@@ -2,6 +2,7 @@
 An implementation of the LDPC SPA decoder in matlab for small code lengths 1000,2000,4000
 The structure of the repository is as below:
 
+```
 root/
  |
  ├───main.m		main
@@ -31,3 +32,4 @@ root/
  |
  └─────temp/
         └───*.m		contains temporary files used for plotting various graphs
+```
